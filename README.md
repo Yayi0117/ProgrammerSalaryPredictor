@@ -1,4 +1,4 @@
-# SalaryPredictionForProgrammer
+# ProgrammerSalaryPredictor
 
 This project is a machine learning-powered web application designed to predict salaries for programmers. The web application is built using the Streamlit framework, inspired by a [YouTube tutorial by Patrick Loeber](https://www.youtube.com/watch?v=xl0N7tHiwlw&t=39s). The data used for training and evaluation is sourced from the [Stack Overflow Survey Data 2023](https://survey.stackoverflow.co/), ensuring the model reflects the most recent industry trends.
 
