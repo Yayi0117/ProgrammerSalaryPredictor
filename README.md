@@ -29,7 +29,9 @@ To run this project locally, follow these steps:
    git clone https://github.com/Yayi0117/SalaryPredictionForProgrammer.git
    cd SalaryPredictionForProgrammer
 2. Install the required dependencies:
-3. run the app
+   ```bash
+   pip install streamlit
+4. run the app
    ```bash
    streamlit run app.py
    
@@ -42,6 +44,9 @@ After running the Streamlit application, a web interface will open in your defau
 3. View the predicted salary based on your inputs.
 
 After running the Streamlit application, a web interface will open in your default web browser. The application offers two main functionalities:
+![image](https://github.com/user-attachments/assets/1a18c1d6-aef2-4fbb-9b52-9a3feffb9686)
+
+
 
 ### Salary Prediction
 
