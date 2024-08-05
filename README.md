@@ -71,7 +71,7 @@ After running the Streamlit application, a web interface will open in your defau
 - Matplotlib: Data visualization library
 
 ## Model Information
-(TBC)
+This project utilizes a `DecisionTreeRegressor` from the `scikit-learn` library to predict continuous target values. Hyperparameter tuning is performed using `GridSearchCV` to find the optimal model configuration.
 
 ## Acknowledgements
 
