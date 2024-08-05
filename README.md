@@ -8,7 +8,7 @@ This project is a machine learning-powered web application designed to predict s
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
+- [Model Information](#Model Information)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
